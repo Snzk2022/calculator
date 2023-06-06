@@ -1,0 +1,15 @@
+C:\Users\81704\source\repos\電卓\bin\Debug\電卓.exe.config
+C:\Users\81704\source\repos\電卓\bin\Debug\電卓.exe
+C:\Users\81704\source\repos\電卓\bin\Debug\電卓.pdb
+C:\Users\81704\source\repos\電卓\obj\Debug\電卓.csproj.AssemblyReference.cache
+C:\Users\81704\source\repos\電卓\obj\Debug\電卓.csproj.SuggestedBindingRedirects.cache
+C:\Users\81704\source\repos\電卓\obj\Debug\電卓.電卓.resources
+C:\Users\81704\source\repos\電卓\obj\Debug\電卓.Properties.Resources.resources
+C:\Users\81704\source\repos\電卓\obj\Debug\電卓.csproj.GenerateResource.cache
+C:\Users\81704\source\repos\電卓\obj\Debug\電卓.csproj.CoreCompileInputs.cache
+C:\Users\81704\source\repos\電卓\obj\Debug\電卓.exe
+C:\Users\81704\source\repos\電卓\obj\Debug\電卓.pdb
+C:\Users\81704\source\repos\電卓\bin\Debug\電卓.exe.manifest
+C:\Users\81704\source\repos\電卓\bin\Debug\電卓.application
+C:\Users\81704\source\repos\電卓\obj\Debug\電卓.exe.manifest
+C:\Users\81704\source\repos\電卓\obj\Debug\電卓.application
